@@ -9,7 +9,38 @@ p{
 }
 h1{
     background-image: url(imagens/sobre-background.jpg);
+    padding: 10px;
+    color: rgb(255, 200,0);
 }
 h2{
+    margin-top: 30px;
     border-bottom: 2px solid #333333;
+}
+figure{
+    background-color: #f2eded;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 15px;
+    margin: 30px;
+}
+figcaption{
+    font-style: italic;
+    margin-top: 10px;
+}
+
+p{
+    text-indent: 15px;
+    padding: 0px 45px ;
+    margin: 0 auto;
+    margin-bottom: 15px;
+   /* background-color: red;
+    height: 300px;
+    width: 300px;*/
+}
+#dif{
+    border-bottom: 2px solid #333333;
+
+}
+.container{
+    margin: 20px;
 }
