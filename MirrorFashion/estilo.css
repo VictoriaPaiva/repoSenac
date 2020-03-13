@@ -1,0 +1,46 @@
+/*.nl{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 150px;
+}
+.ms{
+    text-align: center;
+}
+.ag{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+}*/
+.sacola{
+    background-image: url(imagens/sacola.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    font-size: 14px;
+    padding-right: 35px;
+    padding-top: 8px;
+    text-align: right;
+    width: 140px;
+}
+.menuOpcoes ul{
+    font-size: 15px;
+}
+.menuOpcoes a{
+    color: #003366;
+}
+body{
+    color: #333333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.menuOpcoes ul li{
+    display: inline;
+    margin-left: 20px;
+} 
+.container{
+    margin: auto;
+    width: 940px;
+}
+.logotipo {
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
